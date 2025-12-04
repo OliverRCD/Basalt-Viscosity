@@ -1,0 +1,5 @@
+{
+  "name": "Basalt Viscosity AI Trainer",
+  "description": "A scientific workbench to visualize geochemical data and generate standardized Machine Learning training pipelines (XGBoost/Distillation) for viscosity prediction.",
+  "requestFramePermissions": []
+}
